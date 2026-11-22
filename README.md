@@ -89,13 +89,6 @@ My overview and most used languages in the past projects
 
 <br />
 
-<div align="center">   
-<p>Thanks for reading 💖</p>
-<p>www.vinicius-goncalves.com</p>
-</div>
-
-<br />
-
 <div align="center" color="gray">
   
   I believe in the **"JavaScript Word Theory"**: For each word that exists, there will be a JS library using it.
